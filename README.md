@@ -5,7 +5,7 @@
  - Work Experience: 6 Years
  - Github: https://github.com/cheng-hsiang
  - Professional Title: Software Engineer(Node.js Backend Engineer)
- - Work Location: Taoyuan, Linkou, Taipei City or remote 
+ - Expected Work Place: Taoyuan, Linkou, Taipei City or remote 
 
 ---
 
