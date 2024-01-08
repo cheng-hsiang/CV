@@ -38,7 +38,7 @@
 
 ### 自由工作者
 
-- python開發政府OpenData 爬蟲,自動更新數據
+- Python開發政府OpenData 爬蟲,自動更新數據
 - 電商維護案使用AWS運營(EC2)
 - Node.js串接gpt相關api翻譯工具
 
@@ -49,9 +49,12 @@
 
 工具
 
-- Node express 
+- Node Express 
 - OpenSearch
 - Redis
+- Kubernetes
+- SuperTest
+
 
 開發事項
 1. 進行了現有的 validate function 的重構，進一步提高了系統的穩定性，並使得程式碼更易於維護。
@@ -121,9 +124,9 @@
 
 - Python Flask
 - Vue Vuex
-- scss
-- axios
-- bootstrap
+- Scss
+- Axios
+- Bootstrap
 
 開發事項
 1. RESTful API重構並補上合約未完成之功能
