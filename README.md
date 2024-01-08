@@ -75,7 +75,7 @@ Development Description
 
 ### ciKYC
 
-Application tools
+Skills
 
 - Django + Django REST framework + Celery
 - Elasticsearch
@@ -95,7 +95,7 @@ Development Description
 
 ### ciDocs
 
-Application Tools
+Skills
 
 - Python Django
 - Node.js
@@ -115,7 +115,7 @@ Development Description
 
 ### Smart Agriculture International Business Information Platform
 
-Application Tools
+Skills
 
 - Python Flask
 - Vue Vuex
@@ -137,7 +137,7 @@ Development Description
 
 ### Lion Travel - activity liontravel Website
 
-Application Tools
+Skills
 
 - React EJS jQuery SCSS Typescript
 - Next.js
@@ -158,7 +158,7 @@ Development Description
 
 ### Eyequila
 
-Application Tools
+Skills
 
 - React
 - NightWatch.js
