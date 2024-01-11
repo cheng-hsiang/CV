@@ -36,7 +36,7 @@ Topics of interest and willing to dive deeper:
 
 ### Freelancer
 
-- Python OpenData Government scraper, automatic data updates
+- Python OpenData Government crawler, automatic data updates
 - E-commerce maintenance case using AWS operation(EC2)
 - Node.js to gpt related API translation tool
 
